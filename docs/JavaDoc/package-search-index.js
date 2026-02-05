@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"acsse.csc2a.nova.gui"},{"l":"acsse.csc2a.nova.models"},{"l":"acsse.csc2a.nova.pattern"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();
